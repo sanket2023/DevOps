@@ -5,3 +5,4 @@ This feature will gadbad everything from now
 changes for stash
 This is the bug fix in the development branch
 After bug fixing, this is the new feature with minor alterations
+This is the advancement of the previous feature
