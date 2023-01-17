@@ -2,3 +2,6 @@ This is first feature of our application
 This is the bug fix in development branch
 This is gadbad code
 This feature will gadbad everything from now
+changes for stash
+This is the bug fix in the development branch
+After bug fixing, this is the new feature with minor alterations
